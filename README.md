@@ -1,2 +1,4 @@
 # CMD-language
-cmd命令
+
+### 新建文件夹
+$ mkdir test
